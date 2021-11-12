@@ -23,6 +23,6 @@
 </div>
 
 - 🔭 Hoje trabalho como Supervisor administrativo mas sempre desenvolvendo soluções para a empresa que trabalho.
-- 🌱 Atualmente estou estudando back-end com node.js.
+- 🌱 Atualmente estou estudando front end com React.
 - 💬 Gosto muito de programar. Sempre procuro fazer alguma coisa para ajudar as pessoas automatizando algum processo.
 -->
