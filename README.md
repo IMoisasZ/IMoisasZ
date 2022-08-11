@@ -10,7 +10,7 @@
   <img align="center" alt="Moisas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Moisas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Moisas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Moisas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">  
+  <img align="center" alt="Moisas-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">  
 </div>
   
   ##
@@ -23,6 +23,5 @@
 </div>
 
 - 🔭 Hoje trabalho como Supervisor administrativo mas sempre desenvolvendo soluções para a empresa que trabalho.
-- 🌱 Atualmente estou estudando front end com React.
-- 💬 Gosto muito de programar. Sempre procuro fazer alguma coisa para ajudar as pessoas automatizando algum processo.
--->
+- 🌱 Atualmente estou cursando MBA em Desenvolvimento Mobile Multiplataforma com foco em FLUTTER e REACT NATIVE.
+- 💬 Gosto muito de programar. Sempre procuro fazer alguma coisa para ajudar as pessoas automatizando algum processo ou operação.
